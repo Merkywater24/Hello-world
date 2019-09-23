@@ -1,2 +1,3 @@
 # Hello-world
-repository for DAC-299
+Repository for DAC-299.
+This is my first attempt at git.
